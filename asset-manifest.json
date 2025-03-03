@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AndreyTereshchenko/Dental-clinic-registration-system.git/static/css/main.b9bed88f.css",
+    "main.js": "/AndreyTereshchenko/Dental-clinic-registration-system.git/static/js/main.f7e56028.js",
+    "index.html": "/AndreyTereshchenko/Dental-clinic-registration-system.git/index.html",
+    "main.b9bed88f.css.map": "/AndreyTereshchenko/Dental-clinic-registration-system.git/static/css/main.b9bed88f.css.map",
+    "main.f7e56028.js.map": "/AndreyTereshchenko/Dental-clinic-registration-system.git/static/js/main.f7e56028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9bed88f.css",
+    "static/js/main.f7e56028.js"
+  ]
+}
