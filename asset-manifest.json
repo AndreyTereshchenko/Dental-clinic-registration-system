@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AndreyTereshchenko/Dental-clinic-registration-system/static/css/main.ebece670.css",
-    "main.js": "/AndreyTereshchenko/Dental-clinic-registration-system/static/js/main.4c58f4af.js",
-    "index.html": "/AndreyTereshchenko/Dental-clinic-registration-system/index.html",
-    "main.ebece670.css.map": "/AndreyTereshchenko/Dental-clinic-registration-system/static/css/main.ebece670.css.map",
-    "main.4c58f4af.js.map": "/AndreyTereshchenko/Dental-clinic-registration-system/static/js/main.4c58f4af.js.map"
+    "main.css": "/Dental-clinic-registration-system/static/css/main.ebece670.css",
+    "main.js": "/Dental-clinic-registration-system/static/js/main.4c58f4af.js",
+    "index.html": "/Dental-clinic-registration-system/index.html",
+    "main.ebece670.css.map": "/Dental-clinic-registration-system/static/css/main.ebece670.css.map",
+    "main.4c58f4af.js.map": "/Dental-clinic-registration-system/static/js/main.4c58f4af.js.map"
   },
   "entrypoints": [
     "static/css/main.ebece670.css",
